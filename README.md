@@ -6,6 +6,7 @@
 Installing Odoo
 https://www.odoo.com/documentation/11.0/setup/install.html#linux
 
+
 Tuto
 http://www.theopensourcerer.com/
 https://www.youtube.com/watch?v=6BAVHAr5Ydg
